@@ -38,13 +38,8 @@ git checkout -b nueva-rama
 
 ---
 
-### Paso 3: Enlazar la guía en el `README.md` principal
+## Recursos
 
-1. Abre el archivo `README.md` ubicado en la raíz de tu proyecto.
-2. Agrega la siguiente sección al final de todo el archivo:
+- [Documentación Oficial de Git](https://git-scm.com/doc)
 
-```markdown
-## Documentación Adicional
-
-- [Guía del proyecto](docs/GUIA.md)
-```
+![Captura del laboratorio](../img/captura.png)

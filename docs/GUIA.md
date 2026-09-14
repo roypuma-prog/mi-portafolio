@@ -38,4 +38,4 @@ git checkout -b nueva-rama
 
 ## Recursos
 
-- [Documentación Oficial de Git](https://git-scm.com/doc)
+- [Repositorio mi-portafolio en GitHub](https://github.com/roypuma-prog/mi-portafolio)

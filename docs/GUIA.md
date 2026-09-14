@@ -42,4 +42,4 @@ git checkout -b nueva-rama
 
 - [Documentación Oficial de Git](https://git-scm.com/doc)
 
-![Captura del laboratorio](../img/captura.png)
+![Captura del laboratorio](mi-portafolio/img/Cat & Moon.jpeg)

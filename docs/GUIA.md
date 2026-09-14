@@ -35,11 +35,3 @@ Para verificar la rama actual ejecuta el comando `git branch`.
 ```bash
 git checkout -b nueva-rama
 ```
-
----
-
-## Recursos
-
-- [Documentación Oficial de Git](https://git-scm.com/doc)
-
-![Captura del laboratorio](mi-portafolio/img/Cat & Moon.jpeg)
